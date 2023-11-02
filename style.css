@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;600;700&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+.carousel-item img{
+    width: 
+    00%;
+    height: 80vh;
+    object-position: center;
+    object-fit: cover;
+}
+
+
+.card-body img{
+    width: 200px;
+    height: 200px;
+}
+
+.navbar{
+    position: fixed;
+    z-index: 10000;
+    width: 100%;
+}
